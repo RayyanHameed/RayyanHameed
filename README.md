@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RayyanHameed
-- 👀 I’m interested in Maths and Blockchain technology
-- 🌱 I’m currently learning python.
-
+- Currently in my third (and final) year studying Mathematics.
+- My main interests are in statistical machine learning 
 
 <!---
 RayyanHameed/RayyanHameed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
