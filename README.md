@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RayyanHameed
-- Currently in my third (and final) year studying Mathematics.
+- Recently finished my third and final year studying mathematics at QMUL
+- Will be studying the MSc Statistics course on the data science and machine learning stream at  Imperial College London in September 2026 
 - My main interests are in statistical machine learning 
 
 <!---
